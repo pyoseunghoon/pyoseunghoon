@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## 🏆 Certificates & Achievements
+
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg" alt="항해99 플러스 수료증" width="150"/>
+</a>
+
 <!--
 **pyoseunghoon/pyoseunghoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
